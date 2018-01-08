@@ -79,7 +79,7 @@
   }
 </script>
 
-<style>
+<style scoped="">
 	.menu-ui {
 		position: absolute;
 		background: white;
